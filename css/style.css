@@ -134,6 +134,14 @@ li {
   margin: 1.5em 0;
 }
 
+.main .verify {
+  color: #379049;
+}
+
+.main .color {
+  color: #0d52bd;
+}
+
 .main form {
   margin: 1.5em 0;
 }
